@@ -15,12 +15,11 @@ Password: Project
 ## PROJECT PREVIEW
 
 ### Loading Page
-![Loading Page.](./images/loading-window.jpeg "Loading Page.")
-<img src="./images/loading-window.jpeg" alt= "Loading Page" width="300" height="300">
+<img src="./images/loading-window.jpeg" alt= "Loading Page" width="500" height="400">
 
 ### Login Page
-![Login Page.](./images/login.jpeg "Login Page")
-<img src="./images/./images/login.jpeg" alt= "Login Page" width="250" height="250">
+<!-- ![Login Page.](./images/login.jpeg "Login Page") -->
+<img src="./images/login.jpeg" alt= "Login Page" width="500" height="400">
 
 ### Login As
 
@@ -31,15 +30,16 @@ Password: Project
 
 ### Manage Products
 ![Manage Products.](./images/admin-mange-products.jpeg "Manage Products")
-<img src="./images/admin-mange-products.jpeg" alt= "Manage Products" width="350" height="350">
+<img src="./images/admin-mange-products.jpeg" alt= "Manage Products" width="500" height="400">
 
 ### Manage Sellers
-![Manage Sellers.](./images/admin-manage-sellers.jpeg "Manage Sellers")
+<img src="./images/admin-manage-sellers.jpeg" alt= "Manage Sellers" width="500" height="400">
 
 ## Seller Login
 
 ### Seller Dashboard
-![Manage Sellers.](./images/seller-dashboard.jpeg "Manage Sellers")
+<!-- ![Manage Sellers.](./images/seller-dashboard.jpeg "Manage Sellers") -->
+<img src="./images/seller-dashboard.jpeg" alt= "Login Page" width="500" height="400">
 
 
 
