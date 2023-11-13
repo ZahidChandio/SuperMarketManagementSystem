@@ -1,5 +1,5 @@
-# SuperMarketManagementSystem
-A Java based GUI Management System for a Supermarket implemented using Object-Oriented Programming concepts and File Handling.
+# Supermarket Management System
+A Java based GUI Management System for a Supermarket implemented using Object-Oriented Programming concepts and File Handling. Developed using NetBeans and JDK 19.
 ### Admin Credentials
 UID: Group1 <br />
 Password: Project
@@ -15,10 +15,12 @@ Password: Project
 ## PROJECT PREVIEW
 
 ### Loading Page
-![Loading Page.](/image/loading-window.jpeg "Loading Page.")
+![Loading Page.](./images/loading-window.jpeg "Loading Page.")
+<img src="./images/loading-window.jpeg" alt= "Loading Page" width="300" height="300">
 
 ### Login Page
-![Login Page.](/image/login.jpeg "Login Page")
+![Login Page.](./images/login.jpeg "Login Page")
+<img src="./images/./images/login.jpeg" alt= "Login Page" width="250" height="250">
 
 ### Login As
 
@@ -29,6 +31,7 @@ Password: Project
 
 ### Manage Products
 ![Manage Products.](./images/admin-mange-products.jpeg "Manage Products")
+<img src="./images/admin-mange-products.jpeg" alt= "Manage Products" width="350" height="350">
 
 ### Manage Sellers
 ![Manage Sellers.](./images/admin-manage-sellers.jpeg "Manage Sellers")
